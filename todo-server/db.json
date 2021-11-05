@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Eat breakfast",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "text": "Work on project",
+      "complete": true
+    },
+    {
+      "id": 0.3260011134604126,
+      "text": "Do laundry",
+      "complete": true
+    }
+  ]
+}
